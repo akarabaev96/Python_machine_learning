@@ -1,5 +1,6 @@
-# Telecom churn dataset
+# Predicting mobile operator's customers churn using Logistic Regression
 
+## Dataset used
 Dataset of Telecom mobile operator containing customers' information, activity and information about whether they churned or didn't
 
 ## Goal of the analysis
@@ -35,3 +36,10 @@ Predict whether customer will churn or will not
 - Using optimal model predicting whether customer will churn or not on test part
 
 ## Results
+### Accuracy: 85.2%
+### Precision: 86%
+### Recall: 98.6%
+
+- Accuracy of the model is 85%, which is quite high and consistent with the accuracy obtained during training, so we can say that during training there weren't overfitting and underfitting. 
+- Precision is 86%, which means that out of all customers labeled as churn ones 86% of them really churned.
+- Recall is 98%, which shows that out of all customers that churned our model will detect 98% of them
