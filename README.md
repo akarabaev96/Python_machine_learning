@@ -4,7 +4,7 @@
 Dataset of Telecom mobile operator containing customers' information, activity and information about whether they churned or didn't
 
 ## Goal of the analysis
-Predict whether customer will churn or will not
+Predict whether customer will churn or won't
 
 ## Information used in the prediction
 - Customer's state of residence
